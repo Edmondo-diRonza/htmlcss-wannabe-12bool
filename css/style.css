@@ -18,10 +18,10 @@ margin-top: 110px
 img {
     height: 200px;
 }
-#lezioni {
+.lezioni {
     padding: 10px;
 }
-#cademi {
+.cademi {
     margin-bottom: 50px;
     border-bottom: 1px solid black;
     padding: 10px;
